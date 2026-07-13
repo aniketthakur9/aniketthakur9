@@ -14,7 +14,6 @@ I am an Electronics & Communication Engineering graduate passionate about Cloud 
 - Git & GitHub
 - Linux
 - Computer Networking
-- HTML
 - AWS (Learning)
 - Terraform (Learning)
 - Docker (Learning)
