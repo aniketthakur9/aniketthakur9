@@ -1,8 +1,8 @@
 # Hi, I'm Aniket Thakur 👋
 
-## ☁️ Aspiring Cloud & DevOps Engineer
+### ☁️ Aspiring Cloud & DevOps Engineer
 
-I am an Electronics & Communication Engineering graduate passionate about Cloud Computing and DevOps. I am currently learning Linux, Networking, AWS, Terraform, Docker, Kubernetes, and Jenkins while building real-world cloud projects.
+I am an Electronics & Communication Engineering graduate passionate about Cloud Computing and DevOps. I am currently learning Linux, Computer Networking, AWS, Terraform, Docker, Kubernetes, and Jenkins while building real-world cloud projects. My goal is to become a skilled Cloud & DevOps Engineer and contribute to scalable cloud infrastructure.
 
 ## 🚀 Currently Learning
 - Linux
@@ -13,14 +13,18 @@ I am an Electronics & Communication Engineering graduate passionate about Cloud 
 ## 🛠️ Skills
 - Git & GitHub
 - Linux
+- Computer Networking
 - HTML
 - AWS (Learning)
 - Terraform (Learning)
+- Docker (Learning)
+- Kubernetes (Learning)
 
 ## 🎯 Goals
 - Become a Cloud & DevOps Engineer
 - Earn AWS Certifications
 - Build production-ready cloud projects
+- Contribute to open-source projects
 
 ## 📫 Connect with Me
 LinkedIn:
