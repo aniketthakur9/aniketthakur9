@@ -1,44 +1,86 @@
 # Hi, I'm Aniket Thakur 👋
 
-### ☁️ Aspiring Cloud & DevOps Engineer
+## ☁️ Aspiring Cloud & Software Engineer
 
-I am an Electronics & Communication Engineering graduate passionate about Cloud Computing and DevOps. I am currently learning Linux, Computer Networking, AWS, Terraform, Docker, Kubernetes, and Jenkins while building real-world cloud projects. My goal is to become a skilled Cloud & DevOps Engineer and contribute to scalable cloud infrastructure.
+I'm an Electronics and Communication Engineering graduate with a strong interest in **Cloud Computing, AWS, DevOps, and Full-Stack Development**.
 
-## 🚀 Currently Learning
-- Linux
-- Computer Networking
-- AWS Cloud
-- Terraform
+Currently I'm building practical cloud projects and preparing for the **AWS Certified Cloud Practitioner** certification.
 
-## 🛠️ Skills
-- Git & GitHub
-- Linux
-- Computer Networking
-- AWS (Learning)
-- Terraform (Learning)
-- Docker (Learning)
-- Kubernetes (Learning)
+---
 
-## 🎯 Goals
-- Become a Cloud & DevOps Engineer
-- Earn AWS Certifications
-- Build production-ready cloud projects
-- Contribute to open-source projects
+## 🚀 About Me
 
-## 📫 Connect with Me
-LinkedIn:
-https://www.linkedin.com/in/aniket-thakur-848617313
-<!--
-**aniketthakur9/aniketthakur9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌩 Learning AWS Cloud & DevOps
+- 💻 Building Full-Stack Projects
+- 🚀 Deployed applications on AWS EC2
+- 🌱 Currently learning Docker and Terraform
+- 🎯 Looking for Software Engineer Trainee / Cloud Support Engineer roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Languages
+
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MySQL
+
+### Cloud & DevOps
+
+- AWS EC2
+- Ubuntu Linux
+- Nginx
+- PM2
+- Git
+- GitHub
+- DuckDNS
+- Let's Encrypt SSL
+
+---
+
+## ⭐ Featured Project
+
+### Cloud Portfolio Website
+
+A full-stack portfolio website deployed on AWS.
+
+### Features
+
+- Responsive Design
+- Contact Form
+- Admin Login
+- MySQL Database
+- HTTPS
+- Nginx Reverse Proxy
+- PM2
+- AWS EC2 Deployment
+
+🔗 Live Website
+
+https://aniketportfolio.duckdns.org
+
+📂 Repository
+
+https://github.com/aniketthakur9/MyPortfolioWebsite
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/aniketthakur9
+- LinkedIn: https://linkedin.com/in/aniket-thakur
+
+---
+
+⭐ Thanks for visiting my profile!
