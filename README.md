@@ -1,86 +1,85 @@
 # Hi, I'm Aniket Thakur 👋
 
-## ☁️ Aspiring Cloud & Software Engineer
+### Backend Developer → Cloud Engineer ☁️
 
-I'm an Electronics and Communication Engineering graduate with a strong interest in **Cloud Computing, AWS, DevOps, and Full-Stack Development**.
+I'm a backend-focused developer building scalable APIs, cloud-ready applications, and automated deployment workflows.
 
-Currently I'm building practical cloud projects and preparing for the **AWS Certified Cloud Practitioner** certification.
+I enjoy working with Java, Spring Boot, REST APIs, databases, AWS, Docker, Terraform, and CI/CD, while continuously improving my cloud and DevOps skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🌩 Learning AWS Cloud & DevOps
-- 💻 Building Full-Stack Projects
-- 🚀 Deployed applications on AWS EC2
-- 🌱 Currently learning Docker and Terraform
-- 🎯 Looking for Software Engineer Trainee / Cloud Support Engineer roles
+- 💻 Focused on Backend Development & Cloud Engineering
+- ☕ Java & Spring Boot
+- 🌐 REST APIs & Backend Services
+- 🗄️ MySQL & SQL
+- ☁️ AWS Cloud
+- 🐳 Docker & Containerization
+- 🏗️ Terraform & Infrastructure as Code
+- ⚙️ GitHub Actions & CI/CD
+- 🐧 Linux
+- 📚 Continuously learning and building real-world projects
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-- JavaScript
-- HTML
-- CSS
-- SQL
+## 🛠️ Tech Stack
 
 ### Backend
+Java • Spring Boot • Node.js • Express.js • REST APIs
 
-- Node.js
-- Express.js
-
-### Database
-
-- MySQL
+### Databases
+MySQL • SQL
 
 ### Cloud & DevOps
+AWS • Docker • Terraform • GitHub Actions • Linux
 
-- AWS EC2
-- Ubuntu Linux
-- Nginx
-- PM2
-- Git
-- GitHub
-- DuckDNS
-- Let's Encrypt SSL
+### Tools
+Git • GitHub • Postman • VS Code
 
 ---
 
-## ⭐ Featured Project
+## 📌 Featured Projects
 
-### Cloud Portfolio Website
+### ☁️ Backend & Cloud Portfolio
 
-A full-stack portfolio website deployed on AWS.
+A production-style portfolio application featuring backend APIs, database integration, containerization, CI/CD, Infrastructure as Code, and AWS deployment.
 
-### Features
-
-- Responsive Design
-- Contact Form
-- Admin Login
-- MySQL Database
-- HTTPS
-- Nginx Reverse Proxy
-- PM2
-- AWS EC2 Deployment
-
-🔗 Live Website
-
-https://aniketportfolio.duckdns.org
-
-📂 Repository
-
-https://github.com/aniketthakur9/MyPortfolioWebsite
+**Tech:** Node.js • Express.js • MySQL • Docker • GitHub Actions • Terraform • AWS
 
 ---
 
-## 📫 Connect With Me
+### 🏥 Healthcare Management System
 
-- GitHub: https://github.com/aniketthakur9
-- LinkedIn: https://linkedin.com/in/aniket-thakur
+A backend-focused application designed to manage healthcare-related data and workflows through structured APIs and database integration.
+
+**Tech:** Java • Spring Boot • REST APIs • MySQL
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🎯 Currently Learning
+
+- AWS Cloud Architecture
+- CI/CD & DevOps
+- Infrastructure as Code
+- Docker & Containerization
+- Scalable Backend Architecture
+- Cloud Deployment & Automation
+
+---
+
+## 📈 My Goal
+
+To build reliable backend systems and develop strong expertise in cloud infrastructure, automation, and DevOps.
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: www.linkedin.com/in/aniket-thakur-848617313
+
+📧 Email: aniket70642@gmail.com
+
+---
+
+### 💡 Build. Deploy. Learn. Repeat. 🚀
